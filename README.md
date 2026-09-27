@@ -4,14 +4,6 @@ Este repositório engloba a versão **Back-End** do Projeto Integrador II, que e
 
 A solução desenvolvida será um **Sistema de Atendimentos de Pronto Socorro**.
 
-## Repositórios
-
-**Front-End:**  
-https://github.com/PI2-SI-2026-Pronto-Socorro/PI2-SI-2026-Pronto-Socorro-FRONTEND
-
-**Back-End:**  
-https://github.com/PI2-SI-2026-Pronto-Socorro/PI2-SI-2026-Pronto-Socorro-BACKEND
-
 ## Integrantes
 
 | Nome | GitHub |
